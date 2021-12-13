@@ -1,0 +1,19 @@
+Team Scores and Rankings for CTL: 
+Cascade (Leavenworth) got score of 25. They placed 1 in the league by hypothetical meet. 
+Chelan got score of 49. They placed 2 in the league by hypothetical meet. 
+Cashmere got score of 53. They placed 3 in the league by hypothetical meet. 
+Quincy got score of 143. They placed 4 in the league by hypothetical meet. 
+Omak got score of 146. They placed 5 in the league by hypothetical meet. 
+
+Average times for the 5000 meter distance for each grade level and overall: 
+Grade 12 had an average time of 19:49.4. 
+Grade 11 had an average time of 19:41.3. 
+Grade 10 had an average time of 19:32.1. 
+Grade 9 had an average time of 20:47.0. 
+The overall average for the league is 19:48.6. 
+
+My best time compared to the league: 
+My best time for the 5000 meters was 16:52.7. 
+That time is 175.9 second(s) faster than the league average time.
+My time is 7.71 standard deviation(s) from the average time of the league.
+
